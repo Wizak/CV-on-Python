@@ -1,5 +1,5 @@
-# CV-on-Python
-About phoject: it`s my coursework.
+# CV on Python
+About project: it`s my coursework.
 
 ImageAI provides very convenient and powerful methods to perform object detection on images and extract each object from the image. The object detection class supports RetinaNet, YOLOv3 and TinyYOLOv3. To start performing object detection, you must download the RetinaNet, YOLOv3 or TinyYOLOv3 object detection model via the links below:
 
