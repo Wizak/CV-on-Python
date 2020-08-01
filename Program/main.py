@@ -1,5 +1,5 @@
 def main():
-	
+	#Hello!
 	if input('Use gui interafce? (+): '):
 		from Gui import interface
 		interface.MainApp().run()
