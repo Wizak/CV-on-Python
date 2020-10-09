@@ -3,7 +3,6 @@ def main():
 	if input('Use gui interafce? (+): '):
 		from Gui import interface
 		interface.MainApp().run()
-
 	else:
 		if input('\nOpen camera? (+): '):
 			from Record import recorder 
